@@ -1,0 +1,12 @@
+C:\Users\BLUE_gigi\Downloads\MVCwithWimForms_src\WinFormMVC\MVCModal\bin\Debug\MVCModal.dll
+C:\Users\BLUE_gigi\Downloads\MVCwithWimForms_src\WinFormMVC\MVCModal\bin\Debug\MVCModal.pdb
+C:\Users\BLUE_gigi\Downloads\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Debug\MVC-Model.csproj.AssemblyReference.cache
+C:\Users\BLUE_gigi\Downloads\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Debug\MVC-Model.csproj.CoreCompileInputs.cache
+C:\Users\BLUE_gigi\Downloads\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Debug\MVCModal.dll
+C:\Users\BLUE_gigi\Downloads\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Debug\MVCModal.pdb
+C:\Users\BLUE_gigi\Source\Repos\WinFormMVC\MVCModal\bin\Debug\MVCModal.dll
+C:\Users\BLUE_gigi\Source\Repos\WinFormMVC\MVCModal\bin\Debug\MVCModal.pdb
+C:\Users\BLUE_gigi\Source\Repos\WinFormMVC\MVCModal\obj\Debug\MVC-Model.csproj.AssemblyReference.cache
+C:\Users\BLUE_gigi\Source\Repos\WinFormMVC\MVCModal\obj\Debug\MVC-Model.csproj.CoreCompileInputs.cache
+C:\Users\BLUE_gigi\Source\Repos\WinFormMVC\MVCModal\obj\Debug\MVCModal.dll
+C:\Users\BLUE_gigi\Source\Repos\WinFormMVC\MVCModal\obj\Debug\MVCModal.pdb

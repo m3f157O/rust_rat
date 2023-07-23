@@ -1,0 +1,12 @@
+C:\Users\BLUE_gigi\Downloads\MVCwithWimForms_src\WinFormMVC\MVCModal\bin\Release\MVCModal.dll
+C:\Users\BLUE_gigi\Downloads\MVCwithWimForms_src\WinFormMVC\MVCModal\bin\Release\MVCModal.pdb
+C:\Users\BLUE_gigi\Downloads\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Release\MVC-Model.csproj.AssemblyReference.cache
+C:\Users\BLUE_gigi\Downloads\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Release\MVC-Model.csproj.CoreCompileInputs.cache
+C:\Users\BLUE_gigi\Downloads\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Release\MVCModal.dll
+C:\Users\BLUE_gigi\Downloads\MVCwithWimForms_src\WinFormMVC\MVCModal\obj\Release\MVCModal.pdb
+C:\Users\BLUE_gigi\Source\Repos\WinFormMVC\MVCModal\bin\Release\MVCModal.dll
+C:\Users\BLUE_gigi\Source\Repos\WinFormMVC\MVCModal\bin\Release\MVCModal.pdb
+C:\Users\BLUE_gigi\Source\Repos\WinFormMVC\MVCModal\obj\Release\MVC-Model.csproj.AssemblyReference.cache
+C:\Users\BLUE_gigi\Source\Repos\WinFormMVC\MVCModal\obj\Release\MVC-Model.csproj.CoreCompileInputs.cache
+C:\Users\BLUE_gigi\Source\Repos\WinFormMVC\MVCModal\obj\Release\MVCModal.dll
+C:\Users\BLUE_gigi\Source\Repos\WinFormMVC\MVCModal\obj\Release\MVCModal.pdb
