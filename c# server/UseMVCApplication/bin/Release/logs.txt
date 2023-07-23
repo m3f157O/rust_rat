@@ -1,0 +1,2 @@
+{"controller_id":"gian","command_in":"se","command_out":"true"}
+{"controller_id":"gian","command_in":"dir ./","command_out":"    ./.gitignore\nDIR ./.idea\n    ./baster.exe\nDIR ./bot\n    ./bot.zip\n    ./Cargo.lock\n    ./Cargo.toml\n    ./foo\n    ./foo.exe\n    ./results.txt\nDIR ./src\nDIR ./target\n    ./test\nDIR ./WinFormMVC\n"}
